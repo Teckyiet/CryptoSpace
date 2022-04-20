@@ -37,7 +37,7 @@ const App = () => {
           <Typography.Title
             level={5}
             style={{ color: "white", textAlign: "center" }}>
-            CryptoVerse <br />
+            CryptoSpace <br />
             All rights reserves
           </Typography.Title>
           <Space>
